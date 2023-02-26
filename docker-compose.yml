@@ -1,0 +1,24 @@
+---
+version: "3"
+
+services:
+  postgres:
+    build:
+      context: db
+      dockerfile: Dockerfile
+    environment:
+      POSTGRES_DB: expenses
+    ports:
+      - 0.0.0.0:5432:5432
+    volumes:
+      - postgres-var-lib:/var/lib/postgresql
+
+  web:
+    context: expense-calculator
+    dockerfile: Dockerfile
+  ports:
+    - 0.0.0.0:80:80
+    - 0.0.0.0:443:443
+
+volumes:
+  postgres-var-lib:

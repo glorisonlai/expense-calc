@@ -1,0 +1,240 @@
+[
+  {
+    "Date": "9/2/2023",
+    "Description": "Rent",
+    "Recurrence": "Monthly",
+    "Category": "Mandatory",
+    "Price": "1,738.90"
+  },
+  {
+    "Date": "10/2/2023",
+    "Description": "Yoons",
+    "Recurrence": "One-Time",
+    "Category": "Food",
+    "Price": "83.25"
+  },
+  {
+    "Date": "10/2/2023",
+    "Description": "Anytime Fitness",
+    "Recurrence": "Weekly",
+    "Category": "Bill",
+    "Price": "14.95"
+  },
+  {
+    "Date": "12/2/2023",
+    "Description": "Amazon Prime",
+    "Recurrence": "Monthly",
+    "Category": "Bill",
+    "Price": "6.99"
+  },
+  {
+    "Date": "13/2/2023",
+    "Description": "IKEA Food",
+    "Recurrence": "One-Time",
+    "Category": "Food",
+    "Price": "28.30"
+  },
+  {
+    "Date": "13/2/2023",
+    "Description": "IKEA Food",
+    "Recurrence": "One-Time",
+    "Category": "Food",
+    "Price": "1.20"
+  },
+  {
+    "Date": "15/2/2023",
+    "Description": "Nintendo Games",
+    "Recurrence": "One-Time",
+    "Category": "Entertainment",
+    "Price": "89.15"
+  },
+  {
+    "Date": "16/2/2023",
+    "Description": "Kebab",
+    "Recurrence": "One-Time",
+    "Category": "Food",
+    "Price": "25.25"
+  },
+  {
+    "Date": "17/2/2023",
+    "Description": "Harvey Norman",
+    "Recurrence": "One-Time",
+    "Category": "One-Off",
+    "Price": "180.00"
+  },
+  {
+    "Date": "17/2/2023",
+    "Description": "Harvey Norman (Fridge)",
+    "Recurrence": "One-Time",
+    "Category": "One-Off",
+    "Price": "589.00"
+  },
+  {
+    "Date": "17/2/2023",
+    "Description": "Food",
+    "Recurrence": "One-Time",
+    "Category": "Food",
+    "Price": "89.70"
+  },
+  {
+    "Date": "17/2/2023",
+    "Description": "Vape",
+    "Recurrence": "Monthly",
+    "Category": "Entertainment",
+    "Price": "30"
+  },
+  {
+    "Date": "17/2/2023",
+    "Description": "Anytime Fitness",
+    "Recurrence": "Weekly",
+    "Category": "Bill",
+    "Price": "14.95"
+  },
+  {
+    "Date": "18/2/2023",
+    "Description": "Rice Cooker",
+    "Recurrence": "One-Time",
+    "Category": "One-Off",
+    "Price": "323.00"
+  },
+  {
+    "Date": "18/2/2023",
+    "Description": "IKEA Table/Stuff",
+    "Recurrence": "One-Time",
+    "Category": "One-Off",
+    "Price": "228.51"
+  },
+  {
+    "Date": "18/2/2023",
+    "Description": "Serotonin Coffee",
+    "Recurrence": "One-Time",
+    "Category": "Food",
+    "Price": "28.47"
+  },
+  {
+    "Date": "18/2/2023",
+    "Description": "CostCo",
+    "Recurrence": "One-Time",
+    "Category": "Groceries",
+    "Price": "135.91"
+  },
+  {
+    "Date": "19/2/2023",
+    "Description": "Buckets",
+    "Recurrence": "One-Time",
+    "Category": "One-Off",
+    "Price": "17.30"
+  },
+  {
+    "Date": "19/2/2023",
+    "Description": "Food",
+    "Recurrence": "One-Time",
+    "Category": "Food",
+    "Price": "60.00"
+  },
+  {
+    "Date": "19/2/2023",
+    "Description": "Woolies - Lemonade + Salt",
+    "Recurrence": "Groceries",
+    "Category": "Groceries",
+    "Price": "12.39"
+  },
+  {
+    "Date": "20/2/2023",
+    "Description": "Air Pump",
+    "Recurrence": "One-Time",
+    "Category": "One-Off",
+    "Price": "19.00"
+  },
+  {
+    "Date": "20/2/2023",
+    "Description": "Circles",
+    "Recurrence": "Monthly",
+    "Category": "Mandatory",
+    "Price": "38.00"
+  },
+  {
+    "Date": "20/2/2023",
+    "Description": "Woolies Groceries",
+    "Recurrence": "Groceries",
+    "Category": "Groceries",
+    "Price": "54.37"
+  },
+  {
+    "Date": "20/2/2023",
+    "Description": "Plugs + Power board",
+    "Recurrence": "One-Time",
+    "Category": "One-Off",
+    "Price": "27.98"
+  },
+  {
+    "Date": "20/2/2023",
+    "Description": "Hair dryer",
+    "Recurrence": "One-Time",
+    "Category": "One-Off",
+    "Price": "25.98"
+  },
+  {
+    "Date": "20/2/2023",
+    "Description": "Plushies",
+    "Recurrence": "Fortnightly",
+    "Category": "One-Off",
+    "Price": "26.48"
+  },
+  {
+    "Date": "20/2/2023",
+    "Description": "Kogan Stools+Proj+Soundbar",
+    "Recurrence": "Fortnightly",
+    "Category": "Bill",
+    "Price": "216.25"
+  },
+  {
+    "Date": "20/2/2023",
+    "Description": "Kogan Tupperware",
+    "Recurrence": "Fortnightly",
+    "Category": "Bill",
+    "Price": "11.30"
+  },
+  {
+    "Date": "21/2/2023",
+    "Description": "Coles Food",
+    "Recurrence": "Groceries",
+    "Category": "Groceries",
+    "Price": "11.8"
+  },
+  {
+    "Date": "22/2/2023",
+    "Description": "Asian Grocer",
+    "Recurrence": "Groceries",
+    "Category": "Groceries",
+    "Price": "16.46"
+  },
+  {
+    "Date": "22/2/2023",
+    "Description": "Food",
+    "Recurrence": "One-Time",
+    "Category": "Food",
+    "Price": "15.16"
+  },
+  {
+    "Date": "22/2/2023",
+    "Description": "Fuel",
+    "Recurrence": "Groceries",
+    "Category": "Groceries",
+    "Price": "20"
+  },
+  {
+    "Date": "24/2/2023",
+    "Description": "Gym",
+    "Recurrence": "Weekly",
+    "Category": "Bill",
+    "Price": "14.95"
+  },
+  {
+    "Date": "24/2/2023",
+    "Description": "Amazon Extension Cord",
+    "Recurrence": "One-Time",
+    "Category": "One-Off",
+    "Price": "5.95"
+  }
+]
